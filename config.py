@@ -1,0 +1,8 @@
+# Kraken API Keys
+API_KEY = 'X'
+API_SECRET = 'X'
+
+# Slack API Keys
+SLACK_TOKEN = 'X'
+SLACK_GENERAL = 'X'
+SLACK_IMPORTANT = 'X'
